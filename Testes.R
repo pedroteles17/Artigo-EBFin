@@ -198,8 +198,6 @@ granger_ar1_rev <- estat_F_simb(granger_ar1_rev)
 tabela_granger <- data.frame(granger_ar1, granger_ar1_rev, granger_mom, row.names = paises_tab) %>% set_names("AR(1)", "AR(1) Reverso", "Retorno Acumulado")
 tabela_granger <- tabela_granger[order(rownames(tabela_granger)), ]
 
-clipr::write_clip(tabela_granger)
-
 # Tabelas Teste Vuong
 
 vuong_var <- lapply(vuong_test, function(x) as.data.frame(c(x$LRTstat, as.numeric(x$p_LRT[2]))))
@@ -231,7 +229,5 @@ for (i in seq_along(grafico_series)) {
 names(grafico_series) <- paises_tab
 
 grafico_series <- grafico_series[order(names(grafico_series))]
-
-
 
 
