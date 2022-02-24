@@ -1,6 +1,6 @@
 # Introdução ao Repositório
 
-Esse repositório foi construído com o objetivo de facilitar o acesso às bases de dados e códigos utilizados para produção do artigo. Qualquer contribuição é bem vinda e deve ser encaminhada preferencialmente para o email pedroteles17@gmail.com.
+Esse repositório foi construído com o objetivo de facilitar o acesso às bases de dados e códigos utilizados para produção do artigo. Qualquer contribuição é bem vinda e deve ser encaminhada, preferencialmente, para o email pedroteles17@gmail.com.
 
 # Estrutura do Repositório
 
@@ -26,3 +26,7 @@ Aqui que efetivamente testamos as hipóteses levantadas. Esse código pode ser d
 1. Construção do portfólio de _momentum_ clássico e determinação do drift e retorno acumulado de todos os ativos daquele mercado;
 2. Utilização dos dados acima para construção da estatística de diferença de médias. Além disso, realizamos testes F, teste de Granger e teste de Vuong;
 3. Após termos os resultados, precisamos transformá-los em tabelas para poderem serem utilizadas no artigo. Assim, nessa terceira e última parte, fazemos exatamente isso.
+
+# Observação
+
+Como temos arquivos com mais de 100MB, foi necessário utilizar o Git Large File Storage.
