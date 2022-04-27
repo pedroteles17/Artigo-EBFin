@@ -1,6 +1,8 @@
 # Introdução ao Repositório
 
-Esse repositório foi construído com o objetivo de facilitar o acesso às bases de dados e códigos utilizados para produção do artigo. Qualquer contribuição é bem vinda e deve ser encaminhada, preferencialmente, para o email pedroteles17@gmail.com.
+Esse repositório foi construído com o objetivo de facilitar o acesso às bases de dados e códigos utilizados para produção do artigo. O artigo foi submetido ao Encontro Brasileiro de Finanças 2022.
+
+Qualquer contribuição é bem vinda e deve ser encaminhada, preferencialmente, para o email pedroteles17@gmail.com.
 
 # Estrutura do Repositório
 
